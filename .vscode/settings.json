@@ -1,0 +1,10 @@
+{
+  "eslint.options": {
+    "rules": {
+      "no-undef": ["error"]
+    },
+    "env": {
+      "browser": true
+    }
+  }
+}
